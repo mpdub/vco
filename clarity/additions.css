@@ -1,0 +1,2 @@
+.clarity-triptych{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(2px,.3vw,6px);width:min(100%,1600px)}
+.execution .clarity-triptych img{display:block;width:100%;height:auto;max-width:100%;max-height:none;aspect-ratio:3/2;object-fit:contain}
